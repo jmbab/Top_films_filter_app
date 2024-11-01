@@ -6,8 +6,6 @@
 # WITH APPLY, RESET BUTTONS, AND PAGINATION OF RESULTS
 # Jean M. Babonneau - 01-11-2024
 
-# BUG TO CORRECT: COLUMNS NOT SORTING ASC / DESC
-
 import csv
 from pathlib import Path
 import tkinter as tk
@@ -46,6 +44,9 @@ current_movies = all_movies  # This will hold the filtered movies
 current_page = 1
 movies_per_page = 20
 
+# Sort direction dictionary to track sort order for each column
+sort_direction = {"title": True, "releaseYear": True, "genres": True, "averageRating": True}
+
 # Initialize the main window with a more compact size to reduce empty space
 root = tk.Tk()
 root.title("IMDb Top 1000 Movie Filter")
@@ -66,6 +67,16 @@ def display_movies(page=1):
     page_label.config(text=f"Page {page} of {total_pages}")
     prev_button.config(state=tk.NORMAL if page > 1 else tk.DISABLED)
     next_button.config(state=tk.NORMAL if page < total_pages else tk.DISABLED)
+
+# Function to sort movies by a given column
+def sort_by_column(column):
+    global current_movies
+    # Determine the current sort direction
+    reverse = sort_direction[column]
+    # Sort the movies based on the column and toggle the direction
+    current_movies = sorted(current_movies, key=lambda x: x[column] if x[column] is not None else '', reverse=reverse)
+    sort_direction[column] = not reverse  # Toggle the direction for next click
+    display_movies(current_page)  # Refresh the display
 
 # Function to apply filters based on user input
 def apply_filters():
@@ -187,10 +198,10 @@ style = ttk.Style()
 style.configure("Treeview.Heading", font=("Helvetica", 10, "bold"), background="lightgray")
 
 table = ttk.Treeview(table_frame, columns=("Title", "Year", "Genres", "Rating"), show="headings", height=20)
-table.heading("Title", text="Title")
-table.heading("Year", text="Year")
-table.heading("Genres", text="Genres")
-table.heading("Rating", text="Rating")
+table.heading("Title", text="Title", command=lambda: sort_by_column("title"))
+table.heading("Year", text="Year", command=lambda: sort_by_column("releaseYear"))
+table.heading("Genres", text="Genres", command=lambda: sort_by_column("genres"))
+table.heading("Rating", text="Rating", command=lambda: sort_by_column("averageRating"))
 
 table.column("Title", anchor=tk.W, width=300)
 table.column("Year", anchor=tk.CENTER, width=80)
