@@ -6,13 +6,19 @@
 # WITH APPLY, RESET BUTTONS, AND PAGINATION OF RESULTS
 # Jean M. Babonneau - 01-11-2024
 
+# BUG TO CORRECT: COLUMNS NOT SORTING ASC / DESC
+
 import csv
+from pathlib import Path
 import tkinter as tk
 from tkinter import ttk, messagebox
 from itertools import islice
 
-# Path to the CSV file
-csv_file_path = r'C:\Users\spac-43\Dev\Opgaver uge 04 - Kodning\imdb_top_1000_movies.csv'
+# Get the path of the directory where the script is located
+script_dir = Path(__file__).parent
+
+# Define the path to the CSV file relative to the script directory
+csv_file_path = script_dir / 'imdb_top_1000_movies.csv'
 
 # Generator to read movies from the CSV file line by line
 def read_movies_from_csv():
