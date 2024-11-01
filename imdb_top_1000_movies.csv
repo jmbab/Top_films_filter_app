@@ -1,0 +1,1001 @@
+id,title,genres,averageRating,numVotes,releaseYear
+tt0111161,"The Shawshank Redemption",Drama,9.3,2954554,1994
+tt0068646,"The Godfather","Crime, Drama",9.2,2059785,1972
+tt0252487,"The Chaos Class",Comedy,9.2,43616,1975
+tt0259534,"Ramayana: The Legend of Prince Rama","Action, Adventure, Animation",9.2,15452,1993
+tt16747572,"The Silence of Swastika","Documentary, History",9.1,10569,2021
+tt0468569,"The Dark Knight","Action, Crime, Drama",9,2936136,2008
+tt0167260,"The Lord of the Rings: The Return of the King","Action, Adventure, Drama",9,2022805,2003
+tt0108052,"Schindler's List","Biography, Drama, History",9,1482083,1993
+tt0071562,"The Godfather Part II","Crime, Drama",9,1391746,1974
+tt0050083,"12 Angry Men","Crime, Drama",9,889596,1957
+tt0110912,"Pulp Fiction","Crime, Drama",8.9,2269045,1994
+tt0120737,"The Lord of the Rings: The Fellowship of the Ring","Action, Adventure, Drama",8.9,2052548,2001
+tt5354160,"Mirror Game","Crime, Mystery, Thriller",8.9,30074,2016
+tt0253828,"Tosun Pasha","Comedy, History",8.9,25020,1976
+tt0252488,"The Chaos Class Failed the Class",Comedy,8.9,25008,1975
+tt5275892,"O.J.: Made in America","Biography, Crime, Documentary",8.9,22635,2016
+tt0075143,"The Message","Action, Adventure, Biography",8.9,10976,1976
+tt1375666,Inception,"Action, Adventure, Sci-Fi",8.8,2605707,2010
+tt0137523,"Fight Club",Drama,8.8,2386777,1999
+tt0109830,"Forrest Gump","Drama, Romance",8.8,2311997,1994
+tt0167261,"The Lord of the Rings: The Two Towers","Action, Adventure, Drama",8.8,1823729,2002
+tt0060196,"The Good, the Bad and the Ugly","Adventure, Drama, Western",8.8,827944,1966
+tt23849204,"12th Fail","Biography, Drama",8.8,132003,2023
+tt16492678,"Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc","Action, Animation, Fantasy",8.8,25831,2021
+tt0253779,"The Foster Brothers",Comedy,8.8,21357,1976
+tt0084302,"The Marathon Family","Comedy, Drama",8.8,17251,1982
+tt10534500,#Home,"Drama, Family",8.8,15980,2021
+tt0086935,"Balkan Spy","Comedy, Drama",8.8,12647,1984
+tt2077886,"The Phantom of the Opera at the Royal Albert Hall","Drama, Musical, Romance",8.8,10146,2011
+tt0816692,Interstellar,"Adventure, Drama, Sci-Fi",8.7,2179982,2014
+tt0133093,"The Matrix","Action, Sci-Fi",8.7,2097953,1999
+tt0080684,"Star Wars: Episode V - The Empire Strikes Back","Action, Adventure, Fantasy",8.7,1406556,1980
+tt0099685,Goodfellas,"Biography, Crime, Drama",8.7,1286037,1990
+tt0073486,"One Flew Over the Cuckoo's Nest",Drama,8.7,1090508,1975
+tt15097216,"Jai Bhim","Crime, Drama, Mystery",8.7,220985,2021
+tt10189514,"Soorarai Pottru",Drama,8.7,125819,2020
+tt9263550,"Rocketry: The Nambi Effect","Biography, Drama",8.7,59750,2022
+tt7466810,"777 Charlie","Adventure, Comedy, Drama",8.7,41665,2022
+tt0093603,Nayakan,"Crime, Drama",8.7,25450,1987
+tt0088178,"Stop Making Sense","Documentary, Music",8.7,21618,1984
+tt0252490,"The Chaos Class Is Waking Up",Comedy,8.7,21183,1976
+tt8176054,"Pariyerum Perumal",Drama,8.7,19016,2018
+tt0253614,"Saban, Son of Saban",Comedy,8.7,19012,1977
+tt0252597,"Feyzo, the Polite One","Comedy, Drama",8.7,17637,1978
+tt6019206,"Kill Bill: The Whole Bloody Affair","Action, Crime, Thriller",8.7,17452,2006
+tt0076276,"Who's Singin' Over There?","Adventure, Comedy, Drama",8.7,16917,1980
+tt7738784,Peranbu,"Drama, Family",8.7,16849,2018
+tt14888874,"Demon Slayer: Kimetsu no Yaiba - Mt. Natagumo Arc","Action, Animation, Fantasy",8.7,16821,2020
+tt0201368,"The Broken Landlord","Comedy, Drama",8.7,16669,1985
+tt17592606,Daman,"Adventure, Drama",8.7,13791,2022
+tt0214915,Manichithrathazhu,"Comedy, Horror, Mystery",8.7,12901,1993
+tt8737152,Toma,"Biography, Drama, Music",8.7,12661,2021
+tt0765833,"Happy Days","Comedy, Drama, Family",8.7,12152,1978
+tt0090015,Shoah,"Documentary, History, War",8.7,10780,1985
+tt0114369,Se7en,"Crime, Drama, Mystery",8.6,1845139,1995
+tt0102926,"The Silence of the Lambs","Crime, Drama, Thriller",8.6,1585239,1991
+tt0120815,"Saving Private Ryan","Drama, War",8.6,1527571,1998
+tt0076759,"Star Wars: Episode IV - A New Hope","Action, Adventure, Fantasy",8.6,1475435,1977
+tt0120689,"The Green Mile","Crime, Drama, Fantasy",8.6,1440433,1999
+tt0103064,"Terminator 2: Judgment Day","Action, Adventure, Sci-Fi",8.6,1199152,1991
+tt0245429,"Spirited Away","Adventure, Animation, Family",8.6,875629,2001
+tt0317248,"City of God","Crime, Drama",8.6,816315,2002
+tt0118799,"Life Is Beautiful","Comedy, Drama, Romance",8.6,757111,1997
+tt10811166,"The Kashmir Files",Drama,8.6,575283,2022
+tt0038650,"It's a Wonderful Life","Drama, Family, Fantasy",8.6,507599,1946
+tt9362722,"Spider-Man: Across the Spider-Verse","Action, Adventure, Animation",8.6,409709,2023
+tt0047478,"Seven Samurai","Action, Drama",8.6,373683,1954
+tt0056058,Harakiri,"Action, Drama, Mystery",8.6,72588,1962
+tt27719898,Kaiva,"Action, Drama, Romance",8.6,68920,2023
+tt0367495,"Anbe Sivam","Adventure, Comedy, Drama",8.6,26050,2003
+tt0358456,Earthlings,Documentary,8.6,19967,2005
+tt0252489,"The Chaos Class Is on Vacation",Comedy,8.6,19126,1977
+tt0116860,"Pretty Village, Pretty Flame","Drama, History, War",8.6,18039,1996
+tt0271383,"A Dog's Will","Comedy, Drama, Fantasy",8.6,17518,2000
+tt4139928,"The Legend of Maula Jatt","Action, Drama, Fantasy",8.6,10851,2022
+tt0267351,"My Dear Brother",Drama,8.6,10475,1973
+tt1853728,"Django Unchained","Comedy, Drama, Western",8.5,1735720,2012
+tt0172495,Gladiator,"Action, Adventure, Drama",8.5,1666101,2000
+tt0482571,"The Prestige","Drama, Mystery, Sci-Fi",8.5,1472371,2006
+tt0407887,"The Departed","Crime, Drama, Thriller",8.5,1449537,2006
+tt0088763,"Back to the Future","Adventure, Comedy, Sci-Fi",8.5,1338561,1985
+tt0110413,"Léon: The Professional","Action, Crime, Drama",8.5,1270770,1994
+tt0120586,"American History X","Crime, Drama",8.5,1206008,1998
+tt0110357,"The Lion King","Adventure, Animation, Drama",8.5,1167957,1994
+tt0114814,"The Usual Suspects","Crime, Drama, Mystery",8.5,1163771,1995
+tt2582802,Whiplash,"Drama, Music",8.5,1024632,2014
+tt6751668,Parasite,"Drama, Thriller",8.5,1001482,2019
+tt0078748,Alien,"Horror, Sci-Fi",8.5,986097,1979
+tt1675434,"The Intouchables","Comedy, Drama",8.5,949542,2011
+tt0253474,"The Pianist","Biography, Drama, Music",8.5,935558,2002
+tt0054215,Psycho,"Horror, Mystery, Thriller",8.5,733492,1960
+tt0034583,Casablanca,"Drama, Romance, War",8.5,616116,1942
+tt15239678,"Dune: Part Two","Action, Adventure, Drama",8.5,532835,2024
+tt0047396,"Rear Window","Mystery, Thriller",8.5,532614,1954
+tt0064116,"Once Upon a Time in the West","Drama, Western",8.5,355049,1968
+tt0095327,"Grave of the Fireflies","Animation, Drama, War",8.5,325256,1988
+tt0095765,"Cinema Paradiso","Drama, Romance",8.5,289685,1988
+tt0027977,"Modern Times","Comedy, Drama, Romance",8.5,264510,1936
+tt0021749,"City Lights","Comedy, Drama, Romance",8.5,199873,1931
+tt1424432,Senna,"Biography, Documentary, Sport",8.5,77901,2010
+tt20850406,"Sita Ramam","Action, Drama, Mystery",8.5,71772,2022
+tt26548265,Maharaja,"Action, Crime, Drama",8.5,50672,2024
+tt1152758,"Dear Zachary: A Letter to a Son About His Father","Biography, Crime, Documentary",8.5,41772,2008
+tt0103767,Baraka,Documentary,8.5,41463,1992
+tt7019842,96,"Drama, Romance",8.5,38972,2018
+tt11580854,"Sarpatta Parambarai","Action, Drama, Sport",8.5,26118,2021
+tt0346336,"The Best of Youth","Drama, Romance",8.5,23585,2003
+tt8948790,Jersey,"Drama, Sport",8.5,23476,2019
+tt0058625,"Woman in the Dunes","Drama, Thriller",8.5,23398,1964
+tt24082438,"20 Days in Mariupol","Documentary, War",8.5,23310,2023
+tt1014762,Home,"Documentary, Family",8.5,23148,2009
+tt0253997,"The King of the Street Cleaners","Comedy, Romance",8.5,21764,1977
+tt0054407,"The Hole","Crime, Drama, Thriller",8.5,21044,1960
+tt0079221,"Gol Maal","Comedy, Romance",8.5,20372,1979
+tt8413338,"Kumbalangi Nights","Comedy, Drama, Romance",8.5,18866,2019
+tt0263975,"The Girl with the Red Scarf","Drama, Romance",8.5,17205,1977
+tt0101649,Thalapathi,"Action, Crime, Drama",8.5,13683,1991
+tt9617456,"For Sama","Biography, Documentary, War",8.5,13065,2019
+tt0253991,Zübük,Comedy,8.5,11424,1980
+tt1345836,"The Dark Knight Rises","Action, Drama, Thriller",8.4,1865498,2012
+tt0361748,"Inglourious Basterds","Adventure, Drama, War",8.4,1624270,2009
+tt7286456,Joker,"Crime, Drama, Thriller",8.4,1551730,2019
+tt0209144,Memento,"Mystery, Thriller",8.4,1346325,2000
+tt4154796,"Avengers: Endgame","Action, Adventure, Drama",8.4,1306129,2019
+tt4154756,"Avengers: Infinity War","Action, Adventure, Sci-Fi",8.4,1239924,2018
+tt0910970,WALL·E,"Adventure, Animation, Family",8.4,1226703,2008
+tt0081505,"The Shining","Drama, Horror",8.4,1133699,1980
+tt0082971,"Raiders of the Lost Ark","Action, Adventure",8.4,1052154,1981
+tt0090605,Aliens,"Action, Adventure, Sci-Fi",8.4,788229,1986
+tt0078788,"Apocalypse Now","Drama, Mystery, War",8.4,723274,1979
+tt4633694,"Spider-Man: Into the Spider-Verse","Action, Adventure, Animation",8.4,697070,2018
+tt2380307,Coco,"Adventure, Animation, Drama",8.4,616882,2017
+tt1187043,"3 Idiots","Comedy, Drama",8.4,445032,2009
+tt0086879,Amadeus,"Biography, Drama, Music",8.4,436404,1984
+tt0405094,"The Lives of Others","Drama, Mystery, Thriller",8.4,417076,2006
+tt5311514,"Your Name.","Animation, Drama, Fantasy",8.4,336254,2016
+tt0082096,"Das Boot","Drama, War",8.4,268841,1981
+tt0032553,"The Great Dictator","Comedy, Drama, War",8.4,241614,1940
+tt0043014,"Sunset Boulevard","Drama, Film-Noir",8.4,241214,1950
+tt0050825,"Paths of Glory","Drama, War",8.4,218005,1957
+tt0051201,"Witness for the Prosecution","Crime, Drama, Mystery",8.4,141866,1957
+tt8267604,Capernaum,Drama,8.4,109986,2018
+tt0091251,"Come and See","Drama, Thriller, War",8.4,102700,1985
+tt0057565,"High and Low","Crime, Drama, Mystery",8.4,55831,1963
+tt1313104,"The Cove","Biography, Crime, Documentary",8.4,51829,2009
+tt9900782,Kaithi,"Action, Crime, Drama",8.4,44385,2019
+tt21626284,"Laapataa Ladies","Comedy, Drama",8.4,43611,2023
+tt12361178,"Drishyam 2","Crime, Drama, Thriller",8.4,41877,2021
+tt29623480,"The Wild Robot","Animation, Sci-Fi",8.4,41231,2024
+tt0770802,Samsara,"Documentary, Music",8.4,38524,2011
+tt9477520,Asuran,"Action, Drama",8.4,34510,2019
+tt3674140,"The Salt of the Earth","Biography, Documentary, History",8.4,23943,2014
+tt0416960,"The Lizard","Comedy, Drama",8.4,22956,2004
+tt0400234,"Black Friday","Action, Crime, Drama",8.4,22320,2004
+tt4987556,"Thani Oruvan","Action, Crime, Thriller",8.4,22070,2015
+tt5959980,"Vada Chennai","Action, Crime, Drama",8.4,20473,2018
+tt0047445,"Sansho the Bailiff",Drama,8.4,18616,1954
+tt0052572,"The World of Apu",Drama,8.4,17171,1959
+tt7465992,Mahanati,"Biography, Drama",8.4,15221,2018
+tt0059550,"Operation 'Y' & Other Shurik's Adventures","Comedy, Crime, Drama",8.4,15162,1965
+tt0073000,"The Pinchcliffe Grand Prix","Animation, Comedy, Family",8.4,14498,1975
+tt0314067,Philanthropy,"Comedy, Drama",8.4,14002,2002
+tt0252591,"King of the Doormen",Comedy,8.4,13913,1976
+tt4991384,Visaaranai,"Crime, Drama, Thriller",8.4,12467,2015
+tt0184756,"Mr. Muhsin","Comedy, Drama, Music",8.4,12005,1987
+tt12415546,"Attack on Titan: Chronicle","Action, Adventure, Animation",8.4,11986,2020
+tt0383846,"When I Grow Up, I'll Be a Kangaroo",Comedy,8.4,11718,2004
+tt0169547,"American Beauty",Drama,8.3,1227595,1999
+tt1049413,Up,"Adventure, Animation, Comedy",8.3,1150275,2009
+tt0086190,"Star Wars: Episode VI - Return of the Jedi","Action, Adventure, Fantasy",8.3,1140825,1983
+tt0105236,"Reservoir Dogs","Crime, Thriller",8.3,1108789,1992
+tt0112573,Braveheart,"Biography, Drama, War",8.3,1107705,1995
+tt0338013,"Eternal Sunshine of the Spotless Mind","Drama, Romance, Sci-Fi",8.3,1100831,2004
+tt0119217,"Good Will Hunting","Drama, Romance",8.3,1098354,1997
+tt0114709,"Toy Story","Adventure, Animation, Comedy",8.3,1091348,1995
+tt0086250,Scarface,"Crime, Drama",8.3,937426,1983
+tt0180093,"Requiem for a Dream",Drama,8.3,916778,2000
+tt0435761,"Toy Story 3","Adventure, Animation, Comedy",8.3,909034,2010
+tt15398776,Oppenheimer,"Biography, Drama, History",8.3,807846,2023
+tt0211915,Amélie,"Comedy, Romance",8.3,805190,2001
+tt0113277,Heat,"Action, Crime, Drama",8.3,734466,1995
+tt0062622,"2001: A Space Odyssey","Adventure, Sci-Fi",8.3,733679,1968
+tt0364569,Oldboy,"Action, Drama, Mystery",8.3,653819,2003
+tt0057012,"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb","Comedy, War",8.3,527027,1964
+tt0033467,"Citizen Kane","Drama, Mystery",8.3,472396,1941
+tt0119698,"Princess Mononoke","Action, Adventure, Animation",8.3,444902,1997
+tt0052357,Vertigo,"Mystery, Romance, Thriller",8.3,435561,1958
+tt0087843,"Once Upon a Time in America","Crime, Drama",8.3,384589,1984
+tt2106476,"The Hunt",Drama,8.3,373961,2012
+tt0053125,"North by Northwest","Action, Adventure, Mystery",8.3,351712,1959
+tt0056592,"To Kill a Mockingbird","Crime, Drama",8.3,337569,1962
+tt0056172,"Lawrence of Arabia","Adventure, Biography, Drama",8.3,320999,1962
+tt0070735,"The Sting","Comedy, Crime, Drama",8.3,284088,1973
+tt0045152,"Singin' in the Rain","Comedy, Musical, Romance",8.3,265797,1952
+tt1832382,"A Separation",Drama,8.3,262787,2011
+tt5074352,Dangal,"Action, Biography, Drama",8.3,217186,2016
+tt1255953,Incendies,"Drama, Mystery, War",8.3,211797,2010
+tt0986264,"Like Stars on Earth","Drama, Family",8.3,211239,2007
+tt0053604,"The Apartment","Comedy, Drama, Romance",8.3,201173,1960
+tt0017136,Metropolis,"Drama, Sci-Fi",8.3,189052,1927
+tt0040522,"Bicycle Thieves",Drama,8.3,178765,1948
+tt0022100,M,"Crime, Mystery, Thriller",8.3,171778,1931
+tt0036775,"Double Indemnity","Crime, Drama, Film-Noir",8.3,170394,1944
+tt8110330,"Dil Bechara","Comedy, Drama, Romance",8.3,135528,2020
+tt10295212,Shershaah,"Action, Biography, Drama",8.3,131030,2021
+tt8503618,Hamilton,"Biography, Drama, History",8.3,118969,2020
+tt0044741,Ikiru,Drama,8.3,90395,1952
+tt0055031,"Judgment at Nuremberg","Drama, War",8.3,87459,1961
+tt9179430,Vikram,"Action, Crime, Drama",8.3,77491,2022
+tt9052870,Chhichhore,"Comedy, Drama, Romance",8.3,65770,2019
+tt7060344,Raatchasan,"Action, Crime, Drama",8.3,52129,2018
+tt10280296,"Sardar Udham","Biography, Crime, Drama",8.3,48165,2021
+tt3417422,Drishyam,"Crime, Drama, Thriller",8.3,44903,2013
+tt0019760,"Man with a Movie Camera",Documentary,8.3,28551,1929
+tt0110057,"Hoop Dreams","Documentary, Drama, Sport",8.3,28380,1994
+tt7681902,"Won't You Be My Neighbor?","Biography, Documentary, History",8.3,27398,2018
+tt4679210,Premam,"Comedy, Drama, Romance",8.3,24685,2015
+tt3668162,"Bangalore Days","Comedy, Drama, Romance",8.3,23439,2014
+tt0376127,Anniyan,"Action, Crime, Drama",8.3,22323,2005
+tt0058888,"Red Beard",Drama,8.3,21686,1965
+tt0037674,"Children of Paradise","Drama, Romance",8.3,21492,1945
+tt9098872,"The Rescue","Action, Documentary, Mystery",8.3,21371,2021
+tt0110081,"To Live","Drama, War",8.3,20934,1994
+tt4908644,"Winter on Fire: Ukraine's Fight for Freedom","Documentary, History, War",8.3,20836,2015
+tt0050634,"The Cranes Are Flying","Drama, Romance, War",8.3,20351,1957
+tt13391710,"Jana Gana Mana","Crime, Drama, Thriller",8.3,18070,2022
+tt10214826,"Agent Sai Srinivasa Athreya","Comedy, Crime, Mystery",8.3,17395,2019
+tt0195231,Satya,"Action, Crime, Drama",8.3,17136,1998
+tt0062759,"The Diamond Arm","Adventure, Comedy, Crime",8.3,16598,1969
+tt5312232,Sairat,"Drama, Romance",8.3,15068,2016
+tt0085743,"Jaane Bhi Do Yaaro","Comedy, Crime, Drama",8.3,14924,1983
+tt5867800,Aruvi,Drama,8.3,14566,2016
+tt0061847,"Samurai Rebellion",Drama,8.3,14455,1967
+tt3521134,"The Look of Silence","Biography, Documentary, History",8.3,14099,2014
+tt0060584,"Kidnapping, Caucasian Style","Adventure, Comedy, Drama",8.3,13863,1967
+tt2358592,Lucia,"Drama, Sci-Fi, Thriller",8.3,13487,2013
+tt9006564,2018,"Action, Drama, Thriller",8.3,13409,2023
+tt0072783,"Chupke Chupke","Comedy, Drama, Romance",8.3,13389,1975
+tt0068519,"Gentlemen of Fortune","Comedy, Crime, Drama",8.3,13177,1971
+tt0252619,"From the Village to the City",Comedy,8.3,12079,1974
+tt2877108,"Soodhu Kavvum","Comedy, Crime, Thriller",8.3,12056,2013
+tt0139876,Baasha,"Action, Crime, Drama",8.3,11775,1995
+tt18568902,"Kaun Pravin Tambe?","Biography, Drama, Sport",8.3,11317,2022
+tt8652818,"Violet Evergarden: The Movie","Animation, Drama, Fantasy",8.3,11066,2020
+tt0179955,"Cat City","Adventure, Animation, Comedy",8.3,10949,1986
+tt4851630,"Maheshinte Prathikaaram","Comedy, Drama, Thriller",8.3,10750,2016
+tt0301634,"Frozen Stiff","Comedy, Drama",8.3,10302,2002
+tt0993846,"The Wolf of Wall Street","Biography, Comedy, Crime",8.2,1627829,2013
+tt0372784,"Batman Begins","Action, Crime, Drama",8.2,1608837,2005
+tt1130884,"Shutter Island","Drama, Mystery, Thriller",8.2,1498171,2010
+tt0120382,"The Truman Show","Comedy, Drama",8.2,1232521,1998
+tt0266697,"Kill Bill: Vol. 1","Action, Crime, Thriller",8.2,1219973,2003
+tt0266543,"Finding Nemo","Adventure, Animation, Comedy",8.2,1133686,2003
+tt0107290,"Jurassic Park","Action, Adventure, Sci-Fi",8.2,1090254,1993
+tt0477348,"No Country for Old Men","Crime, Drama, Thriller",8.2,1087018,2007
+tt0167404,"The Sixth Sense","Drama, Mystery, Thriller",8.2,1073725,1999
+tt0268978,"A Beautiful Mind","Biography, Drama, Mystery",8.2,1002546,2001
+tt0095016,"Die Hard","Action, Thriller",8.2,961451,1988
+tt0075314,"Taxi Driver","Crime, Drama",8.2,946635,1976
+tt0208092,Snatch,"Comedy, Crime",8.2,925730,2000
+tt10872600,"Spider-Man: No Way Home","Action, Adventure, Fantasy",8.2,911192,2021
+tt0066921,"A Clockwork Orange","Crime, Sci-Fi",8.2,894718,1971
+tt1392214,Prisoners,"Crime, Drama, Mystery",8.2,836251,2013
+tt0097576,"Indiana Jones and the Last Crusade","Action, Adventure",8.2,822834,1989
+tt0093058,"Full Metal Jacket","Drama, War",8.2,804707,1987
+tt1745960,"Top Gun: Maverick","Action, Drama",8.2,736088,2022
+tt0457430,"Pan's Labyrinth","Drama, Fantasy, War",8.2,712335,2006
+tt8579674,1917,"Action, Drama, History",8.2,699732,2019
+tt0469494,"There Will Be Blood",Drama,8.2,653347,2007
+tt0119488,"L.A. Confidential","Crime, Drama, Mystery",8.2,629014,1997
+tt6966692,"Green Book","Biography, Comedy, Drama",8.2,599820,2018
+tt0071853,"Monty Python and the Holy Grail","Adventure, Comedy, Fantasy",8.2,577967,1975
+tt0112641,Casino,"Crime, Drama",8.2,575919,1995
+tt0084787,"The Thing","Horror, Mystery, Sci-Fi",8.2,480724,1982
+tt0347149,"Howl's Moving Castle","Adventure, Animation, Family",8.2,464744,2004
+tt0105695,Unforgiven,"Drama, Western",8.2,443163,1992
+tt0363163,Downfall,"Biography, Drama, History",8.2,380674,2004
+tt0031381,"Gone with the Wind","Drama, Romance, War",8.2,339201,1939
+tt0053291,"Some Like It Hot","Comedy, Music, Romance",8.2,287970,1959
+tt0059578,"For a Few Dollars More","Drama, Western",8.2,280582,1965
+tt0080678,"The Elephant Man","Biography, Drama",8.2,262979,1980
+tt0057115,"The Great Escape","Adventure, Drama, Thriller",8.2,262787,1963
+tt1305806,"The Secret in Their Eyes","Drama, Mystery, Romance",8.2,226393,2009
+tt10272386,"The Father","Drama, Mystery",8.2,201775,2020
+tt4729430,Klaus,"Adventure, Animation, Comedy",8.2,195894,2019
+tt0046912,"Dial M for Murder","Crime, Thriller",8.2,192757,1954
+tt0042876,Rashomon,"Crime, Drama, Mystery",8.2,184297,1950
+tt10698680,"K.G.F: Chapter 2","Action, Crime, Drama",8.2,153799,2022
+tt0042192,"All About Eve",Drama,8.2,141017,1950
+tt0089881,Ran,"Action, Drama, War",8.2,139079,1985
+tt0012349,"The Kid","Comedy, Drama, Family",8.2,137412,1921
+tt0040897,"The Treasure of the Sierra Madre","Adventure, Drama, Western",8.2,134345,1948
+tt0055630,Yojimbo,"Action, Drama, Thriller",8.2,133944,1961
+tt4849438,"Baahubali 2: The Conclusion","Action, Drama",8.2,118351,2017
+tt5813916,"The Mountain II","Action, Drama, War",8.2,110874,2016
+tt1954470,"Gangs of Wasseypur","Action, Comedy, Crime",8.2,105786,2012
+tt8108198,Andhadhun,"Crime, Mystery, Thriller",8.2,105632,2018
+tt15327088,Kantara,"Action, Adventure, Drama",8.2,105225,2022
+tt7838252,"K.G.F: Chapter 1","Action, Crime, Drama",8.2,101192,2018
+tt0367110,Swades,"Drama, Musical",8.2,99929,2004
+tt4430212,Drishyam,"Crime, Drama, Mystery",8.2,98048,2015
+tt0476735,"My Father and My Son","Drama, Family",8.2,94624,2005
+tt1562872,"Zindagi Na Milegi Dobara","Comedy, Drama, Musical",8.2,88065,2011
+tt0118849,"Children of Heaven","Drama, Family, Sport",8.2,82700,1997
+tt1645089,"Inside Job","Crime, Documentary",8.2,80102,2010
+tt11032374,"Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train","Action, Adventure, Animation",8.2,78121,2020
+tt0242519,"Hera Pheri","Action, Comedy, Crime",8.2,74062,2000
+tt8291224,"Uri: The Surgical Strike","Action, Drama, History",8.2,74006,2019
+tt2125608,"Searching for Sugar Man","Biography, Documentary, Music",8.2,73748,2012
+tt2356180,"Bhaag Milkha Bhaag","Biography, Drama, Sport",8.2,73346,2013
+tt8239946,Tumbbad,"Drama, Fantasy, Horror",8.2,64864,2018
+tt0015324,"Sherlock Jr.","Action, Comedy, Romance",8.2,58863,1924
+tt10431500,"Miracle in Cell No. 7",Drama,8.2,57257,2019
+tt6148156,"Vikram Vedha","Action, Crime, Drama",8.2,51663,2017
+tt15501640,"Drishyam 2","Crime, Drama, Mystery",8.2,46660,2022
+tt20256528,"What Is a Woman?",Documentary,8.2,44708,2022
+tt6316138,"Ayla: The Daughter of War","Biography, Drama, History",8.2,44680,2017
+tt0085809,Koyaanisqatsi,"Documentary, Music",8.2,42429,1982
+tt2375605,"The Act of Killing","Biography, Crime, Documentary",8.2,41460,2012
+tt0048473,"Pather Panchali",Drama,8.2,39296,1955
+tt7905466,"They Shall Not Grow Old","Documentary, History, War",8.2,39016,2018
+tt1620933,"Paan Singh Tomar","Action, Biography, Crime",8.2,38370,2012
+tt4573394,"Endless Corridor","Documentary, History",8.2,38299,2014
+tt5895028,13th,"Crime, Documentary, History",8.2,38068,2016
+tt0071411,"Dersu Uzala","Adventure, Biography, Drama",8.2,34195,1975
+tt5929776,"The First Born","Documentary, News",8.2,29096,2016
+tt0045274,"Umberto D.",Drama,8.2,28785,1952
+tt7392212,Rangasthalam,"Action, Drama",8.2,28361,2018
+tt4983780,Maanaadu,"Action, Adventure, Sci-Fi",8.2,25824,2021
+tt0049902,"A Man Escaped","Drama, Thriller, War",8.2,25742,1956
+tt0466460,"Khosla Ka Ghosla!","Comedy, Crime, Drama",8.2,25369,2006
+tt0100234,Close-Up,"Biography, Crime, Drama",8.2,23942,1990
+tt26458038,"Manjummel Boys","Adventure, Drama, Thriller",8.2,22524,2024
+tt0042804,"The Young and the Damned","Crime, Drama",8.2,22403,1950
+tt0054248,"Rocco and His Brothers","Crime, Drama, Sport",8.2,22079,1960
+tt0041154,"Late Spring","Comedy, Drama",8.2,19846,1949
+tt0070233,"Ivan Vasilyevich Changes His Profession","Adventure, Comedy, Sci-Fi",8.2,18882,1973
+tt0117293,"Paradise Lost: The Child Murders at Robin Hood Hills","Crime, Documentary",8.2,18495,1996
+tt0100332,"Paris Is Burning",Documentary,8.2,18429,1990
+tt7019942,"Super Deluxe","Comedy, Crime, Drama",8.2,18182,2019
+tt25433734,"Hi Nanna","Drama, Family, Romance",8.2,18038,2023
+tt5460658,"Life and a Day",Drama,8.2,17997,2016
+tt2181831,Shahid,"Biography, Drama",8.2,17949,2012
+tt0048452,Ordet,Drama,8.2,17793,1955
+tt0081059,"Lion of the Desert","Biography, Drama, History",8.2,17756,1980
+tt0422320,Ghilli,"Action, Drama, Romance",8.2,17723,2004
+tt0050371,"A Face in the Crowd","Drama, Music",8.2,17619,1957
+tt7060460,"Theeran Adhigaram Ondru","Action, Crime, Thriller",8.2,17461,2017
+tt6380520,"Dhuruvangal Pathinaaru","Crime, Drama, Mystery",8.2,17237,2016
+tt2218988,"Ustad Hotel","Comedy, Drama",8.2,17070,2012
+tt0048956,Aparajito,Drama,8.2,16396,1956
+tt0471571,Athadu,"Action, Crime, Drama",8.2,15326,2005
+tt0023042,"I Am a Fugitive from a Chain Gang","Crime, Drama, Film-Noir",8.2,14746,1932
+tt1180583,"Vaaranam Aayiram","Action, Drama, Musical",8.2,14663,2008
+tt9500372,"Pocket Hercules: Naim Süleymanoglu","Biography, Drama, History",8.2,14389,2019
+tt3569782,Jigarthanda,"Comedy, Crime, Drama",8.2,13871,2014
+tt9124428,Champion,"Biography, Drama, Romance",8.2,13448,2018
+tt0101985,"A Brighter Summer Day","Crime, Drama, Romance",8.2,13354,1991
+tt0056512,"The Easy Life","Comedy, Drama",8.2,12991,1962
+tt0111341,Satantango,Drama,8.2,12905,1994
+tt0052600,"Ballad of a Soldier","Drama, Romance, War",8.2,11563,1959
+tt0058604,"I Am Cuba",Drama,8.2,11058,1964
+tt0076727,"Office Romance","Comedy, Drama, Romance",8.2,10644,1977
+tt0075404,"The Ascent","Drama, War",8.2,10504,1977
+tt0843326,Bommarillu,"Comedy, Drama, Romance",8.2,10278,2006
+tt3153634,Hope,Drama,8.2,10165,2013
+tt0325980,"Pirates of the Caribbean: The Curse of the Black Pearl","Action, Adventure, Fantasy",8.1,1235077,2003
+tt0434409,"V for Vendetta","Action, Drama, Sci-Fi",8.1,1194646,2005
+tt1392190,"Mad Max: Fury Road","Action, Adventure, Sci-Fi",8.1,1135342,2015
+tt0264464,"Catch Me If You Can","Biography, Crime, Drama",8.1,1125540,2002
+tt2267998,"Gone Girl","Drama, Mystery, Thriller",8.1,1091689,2014
+tt0198781,"Monsters, Inc.","Adventure, Animation, Comedy",8.1,1001526,2001
+tt1201607,"Harry Potter and the Deathly Hallows: Part 2","Adventure, Family, Fantasy",8.1,968593,2011
+tt0088247,"The Terminator","Action, Adventure, Sci-Fi",8.1,943275,1984
+tt2278388,"The Grand Budapest Hotel","Adventure, Comedy, Crime",8.1,903997,2014
+tt0118715,"The Big Lebowski","Comedy, Crime",8.1,873805,1998
+tt3315342,Logan,"Action, Drama, Sci-Fi",8.1,864591,2017
+tt0382932,Ratatouille,"Adventure, Animation, Comedy",8.1,852363,2007
+tt0083658,"Blade Runner","Action, Drama, Sci-Fi",8.1,836896,1982
+tt2096673,"Inside Out","Adventure, Animation, Comedy",8.1,835817,2015
+tt1205489,"Gran Torino",Drama,8.1,825391,2008
+tt0892769,"How to Train Your Dragon","Action, Adventure, Animation",8.1,818049,2010
+tt2024544,"12 Years a Slave","Biography, Drama, History",8.1,751464,2013
+tt0116282,Fargo,"Crime, Thriller",8.1,738382,1996
+tt0117951,Trainspotting,Drama,8.1,736536,1996
+tt0405159,"Million Dollar Baby","Drama, Sport",8.1,731878,2004
+tt0073195,Jaws,"Adventure, Drama, Thriller",8.1,677185,1975
+tt0758758,"Into the Wild","Adventure, Biography, Drama",8.1,667106,2007
+tt0075148,Rocky,"Drama, Sport",8.1,642229,1976
+tt0120735,"Lock, Stock and Two Smoking Barrels","Action, Comedy, Crime",8.1,624803,1998
+tt2119532,"Hacksaw Ridge","Biography, Drama, History",8.1,613753,2016
+tt5027774,"Three Billboards Outside Ebbing, Missouri","Comedy, Crime, Drama",8.1,566515,2017
+tt0097165,"Dead Poets Society","Comedy, Drama",8.1,565283,1989
+tt1979320,Rush,"Action, Biography, Drama",8.1,522696,2013
+tt1895587,Spotlight,"Biography, Crime, Drama",8.1,509140,2015
+tt1291584,Warrior,"Action, Drama, Sport",8.1,504552,2011
+tt1454029,"The Help",Drama,8.1,501714,2011
+tt1950186,"Ford v Ferrari","Action, Biography, Drama",8.1,498571,2019
+tt0070047,"The Exorcist",Horror,8.1,465779,1973
+tt3170832,Room,"Drama, Thriller",8.1,458785,2015
+tt0092005,"Stand by Me","Adventure, Comedy, Drama",8.1,451893,1986
+tt0091763,Platoon,"Drama, War",8.1,446611,1986
+tt0032138,"The Wizard of Oz","Adventure, Family, Fantasy",8.1,436006,1939
+tt0096283,"My Neighbor Totoro","Animation, Comedy, Family",8.1,392438,1988
+tt0081398,"Raging Bull","Biography, Drama, Sport",8.1,386466,1980
+tt0395169,"Hotel Rwanda","Biography, Drama, History",8.1,377594,2004
+tt0077416,"The Deer Hunter","Drama, War",8.1,367991,1978
+tt0071315,Chinatown,"Drama, Mystery, Thriller",8.1,356772,1974
+tt0112471,"Before Sunrise","Drama, Romance",8.1,348021,1995
+tt1028532,"Hachi: A Dog's Tale","Biography, Drama, Family",8.1,318609,2009
+tt0381681,"Before Sunset","Drama, Romance",8.1,294168,2004
+tt0059742,"The Sound of Music","Biography, Drama, Family",8.1,266929,1965
+tt0052618,Ben-Hur,"Adventure, Drama",8.1,257305,1959
+tt0050212,"The Bridge on the River Kwai","Adventure, Drama, War",8.1,236942,1957
+tt0129167,"The Iron Giant","Action, Adventure, Animation",8.1,234949,1999
+tt0353969,"Memories of Murder","Crime, Drama, Mystery",8.1,226293,2003
+tt3011894,"Wild Tales","Comedy, Drama, Thriller",8.1,221486,2014
+tt2338151,PK,"Comedy, Drama, Sci-Fi",8.1,205634,2014
+tt0113247,"La haine","Crime, Drama",8.1,202909,1995
+tt0050976,"The Seventh Seal","Drama, Fantasy",8.1,202516,1957
+tt0061512,"Cool Hand Luke","Crime, Drama",8.1,191473,1967
+tt0107207,"In the Name of the Father","Biography, Crime, Drama",8.1,190831,1993
+tt0978762,"Mary and Max","Animation, Comedy, Drama",8.1,189812,2009
+tt0072684,"Barry Lyndon","Adventure, Drama, War",8.1,187196,1975
+tt0041959,"The Third Man","Film-Noir, Mystery, Thriller",8.1,185371,1949
+tt4016934,"The Handmaiden","Drama, Romance, Thriller",8.1,179458,2016
+tt0074958,Network,Drama,8.1,173991,1976
+tt0118694,"In the Mood for Love","Drama, Romance",8.1,171060,2000
+tt0047296,"On the Waterfront","Crime, Drama, Thriller",8.1,167981,1954
+tt0032976,Rebecca,"Drama, Mystery, Romance",8.1,149350,1940
+tt0053198,"The 400 Blows","Crime, Drama",8.1,129678,1959
+tt0087884,"Paris, Texas",Drama,8.1,124921,1984
+tt0405508,"Rang De Basanti","Comedy, Crime, Drama",8.1,123277,2006
+tt0031679,"Mr. Smith Goes to Washington","Comedy, Drama",8.1,123182,1939
+tt0169102,"Lagaan: Once Upon a Time in India","Drama, Musical, Sport",8.1,122252,2001
+tt0015864,"The Gold Rush","Adventure, Comedy, Drama",8.1,120574,1925
+tt0050986,"Wild Strawberries","Drama, Romance",8.1,117132,1957
+tt0025316,"It Happened One Night","Comedy, Romance",8.1,114557,1934
+tt8613070,"Portrait of a Lady on Fire","Drama, Romance",8.1,113885,2019
+tt0111495,"Three Colors: Red","Drama, Mystery, Romance",8.1,111764,1994
+tt5323662,"A Silent Voice: The Movie","Animation, Drama",8.1,107469,2016
+tt0032551,"The Grapes of Wrath",Drama,8.1,101691,1940
+tt3863552,"Bajrangi Bhaijaan","Action, Adventure, Comedy",8.1,100705,2015
+tt0017925,"The General","Action, Adventure, Comedy",8.1,99919,1926
+tt0374887,"Munna Bhai M.B.B.S.","Comedy, Drama",8.1,90047,2003
+tt11555492,Farha,Drama,8.1,89872,2021
+tt2082197,Barfi!,"Comedy, Drama, Romance",8.1,88254,2012
+tt0871510,"Chak De! India","Drama, Family, Sport",8.1,86060,2007
+tt0056217,"The Man Who Shot Liberty Valance","Drama, Western",8.1,83962,1962
+tt1280558,"A Wednesday","Action, Crime, Drama",8.1,83186,2008
+tt10554232,"Dara of Jasenovac","Drama, War",8.1,81975,2020
+tt7775622,"Free Solo","Adventure, Documentary, Sport",8.1,79496,2018
+tt0292490,"Dil Chahta Hai","Comedy, Drama, Romance",8.1,76765,2001
+tt2545118,Blackfish,"Documentary, Drama, Horror",8.1,73667,2013
+tt0116231,"The Bandit","Crime, Drama, Thriller",8.1,73096,1996
+tt0036868,"The Best Years of Our Lives","Drama, Romance, War",8.1,72073,1946
+tt0046438,"Tokyo Story",Drama,8.1,70589,1953
+tt0046911,Diabolique,"Crime, Drama, Horror",8.1,70416,1955
+tt3322420,Queen,"Adventure, Comedy, Drama",8.1,68998,2013
+tt0020629,"All Quiet on the Western Front","Drama, War",8.1,68690,1930
+tt0083922,"Fanny and Alexander",Drama,8.1,68218,1982
+tt0046268,"The Wages of Fear","Adventure, Drama, Thriller",8.1,68004,1953
+tt0058946,"The Battle of Algiers","Drama, War",8.1,67233,1966
+tt0169858,"Neon Genesis Evangelion: The End of Evangelion","Action, Animation, Drama",8.1,67181,1997
+tt1821480,Kahaani,"Mystery, Thriller",8.1,66810,2012
+tt2283748,"OMG: Oh My God!","Comedy, Drama, Fantasy",8.1,66748,2012
+tt12888462,"My Octopus Teacher","Documentary, Drama",8.1,65719,2020
+tt0019254,"The Passion of Joan of Arc","Biography, Drama, History",8.1,62306,1928
+tt0073707,Sholay,"Action, Adventure, Comedy",8.1,59644,1975
+tt0018455,Sunrise,"Drama, Romance",8.1,54499,1927
+tt0070510,"Paper Moon","Comedy, Crime, Drama",8.1,53574,1973
+tt0050783,"Nights of Cabiria",Drama,8.1,52627,1957
+tt0074896,"The Message","Biography, Drama, History",8.1,51564,1976
+tt2140203,"Wolf Children","Animation, Drama, Family",8.1,50753,2012
+tt2991224,Tangerines,"Drama, War",8.1,49686,2013
+tt1639426,Udaan,Drama,8.1,47887,2010
+tt0035446,"To Be or Not to Be","Comedy, Romance, War",8.1,44529,1942
+tt0051808,"The Hidden Fortress","Action, Adventure, Drama",8.1,43114,1958
+tt0040725,"The Red Shoes","Drama, Music, Romance",8.1,40206,1948
+tt0043338,"Ace in the Hole","Drama, Film-Noir",8.1,39906,1951
+tt0028950,"The Grand Illusion","Drama, War",8.1,39455,1937
+tt4934950,Talvar,"Crime, Drama, Mystery",8.1,39063,2015
+tt0077711,"Autumn Sonata","Drama, Music",8.1,38871,1978
+tt2187153,Thuppakki,"Action, Thriller",8.1,38839,2012
+tt10324144,"Article 15","Crime, Drama, Mystery",8.1,37646,2019
+tt0048021,Rififi,"Crime, Drama, Thriller",8.1,37348,1955
+tt0018773,"The Circus","Comedy, Family, Romance",8.1,36616,1928
+tt0375611,Black,Drama,8.1,36548,2005
+tt0042041,"White Heat","Action, Crime, Drama",8.1,36492,1949
+tt8108268,"The Tashkent Files","Drama, Mystery, Thriller",8.1,36227,2019
+tt0101640,"Raise the Red Lantern","Drama, Romance",8.1,35899,1991
+tt0066763,Anand,"Drama, Musical",8.1,35812,1971
+tt14152756,Seaspiracy,"Adventure, Documentary",8.1,34553,2021
+tt0106332,"Farewell My Concubine","Drama, Music, Romance",8.1,34081,1993
+tt0053946,"Inherit the Wind","Biography, Drama, History",8.1,33410,1960
+tt0097223,"Time of the Gypsies","Comedy, Crime, Drama",8.1,33094,1988
+tt9851854,Major,"Action, Biography, Drama",8.1,32903,2022
+tt4635372,Masaan,Drama,8.1,32150,2015
+tt0065234,Z,"Crime, Drama, Thriller",8.1,31931,1969
+tt3801314,Kaththi,"Action, Drama",8.1,30978,2014
+tt0244316,"Yi Yi","Drama, Romance",8.1,29371,2000
+tt0263438,"Everything's Gonna Be Great","Comedy, Drama, Thriller",8.1,28263,1998
+tt0091288,"Jean de Florette","Comedy, Drama",8.1,27945,1986
+tt8760684,"Apollo 11","Documentary, History",8.1,27582,2019
+tt0200087,Sarfarosh,"Action, Crime, Drama",8.1,27481,1999
+tt3302820,"Cowspiracy: The Sustainability Secret",Documentary,8.1,26822,2014
+tt0064040,"Army of Shadows","Drama, War",8.1,26766,1969
+tt0095467,"A Short Film About Love","Drama, Romance",8.1,26647,1988
+tt0055601,Viridiana,Drama,8.1,26530,1961
+tt0046478,Ugetsu,"Drama, Fantasy, War",8.1,26421,1953
+tt0044008,"A Christmas Carol","Drama, Family, Fantasy",8.1,26000,1951
+tt0428870,"A Moment to Remember","Drama, Romance",8.1,25963,2004
+tt0351817,"The Twilight Samurai","Drama, Romance",8.1,25928,2002
+tt0317910,"The Fog of War","Biography, Documentary, History",8.1,25323,2003
+tt0104561,"Jo Jeeta Wohi Sikandar","Comedy, Drama, Romance",8.1,24596,1992
+tt2659414,"Miracle in Cell No. 7","Comedy, Drama",8.1,24536,2013
+tt0102015,"Hearts of Darkness: A Filmmaker's Apocalypse",Documentary,8.1,23946,1991
+tt0014429,"Safety Last!","Action, Comedy, Thriller",8.1,23414,1923
+tt0425333,Pardon,"Comedy, Drama",8.1,23393,2005
+tt7286916,"The Dawn Wall","Biography, Documentary, Sport",8.1,21487,2017
+tt0056241,"The Miracle Worker","Biography, Drama",8.1,20907,1962
+tt0077838,"The Last Waltz","Biography, Documentary, Music",8.1,20605,1978
+tt0128332,Innocence,Drama,8.1,20469,1997
+tt0093342,"Where Is the Friend's House?","Drama, Family",8.1,19715,1987
+tt1781069,"Zeitgeist: Moving Forward",Documentary,8.1,18792,2011
+tt0066580,Woodstock,"Documentary, History, Music",8.1,18713,1970
+tt8144834,"Section 375","Crime, Drama, Mystery",8.1,18661,2019
+tt0191043,"The Color of Paradise","Drama, Family",8.1,18451,1999
+tt0453729,Iqbal,"Drama, Sport",8.1,17874,2005
+tt0041452,"The Heiress","Drama, Romance",8.1,17692,1949
+tt0319736,"The Legend of Bhagat Singh","Action, Biography, Drama",8.1,17521,2002
+tt0016847,Faust,"Drama, Fantasy, Horror",8.1,17016,1926
+tt11375428,Hridayam,"Drama, Musical, Romance",8.1,16774,2022
+tt0076085,"A Special Day",Drama,8.1,16437,1977
+tt19853258,"Still: A Michael J. Fox Movie","Biography, Documentary",8.1,16125,2023
+tt4432480,RangiTaranga,"Mystery, Thriller",8.1,15423,2015
+tt0116630,Indian,"Action, Drama, Thriller",8.1,15126,1996
+tt0105271,Roja,"Drama, Romance, Thriller",8.1,13978,1992
+tt0112553,Bombay,"Drama, Romance",8.1,13904,1995
+tt10706602,Collective,"Crime, Documentary",8.1,13637,2019
+tt1634013,"Montevideo: Taste of a Dream","Adventure, Comedy, Drama",8.1,13154,2010
+tt1113829,"George Harrison: Living in the Material World","Biography, Documentary, Music",8.1,12783,2011
+tt3455224,Virunga,"Documentary, War",8.1,12371,2014
+tt0330243,"Day of the Wacko","Comedy, Drama, Romance",8.1,12169,2002
+tt0036506,"Day of Wrath","Drama, History",8.1,11319,1943
+tt13299890,"The Great Indian Kitchen","Comedy, Drama",8.1,10144,2021
+tt0848228,"The Avengers","Action, Sci-Fi",8,1481030,2012
+tt2015381,"Guardians of the Galaxy","Action, Adventure, Comedy",8,1293112,2014
+tt1431045,Deadpool,"Action, Comedy",8,1173786,2016
+tt3659388,"The Martian","Adventure, Drama, Sci-Fi",8,945749,2015
+tt1160419,"Dune: Part One","Action, Adventure, Drama",8,909404,2021
+tt1663202,"The Revenant","Action, Adventure, Drama",8,890838,2015
+tt1010048,"Slumdog Millionaire","Crime, Drama, Romance",8,885493,2008
+tt0246578,"Donnie Darko","Drama, Mystery, Sci-Fi",8,864816,2001
+tt0947798,"Black Swan","Drama, Thriller",8,840370,2010
+tt2084970,"The Imitation Game","Biography, Drama, Thriller",8,837769,2014
+tt0317705,"The Incredibles","Action, Adventure, Animation",8,829845,2004
+tt0378194,"Kill Bill: Vol. 2","Action, Crime, Thriller",8,821367,2004
+tt0401792,"Sin City","Crime, Thriller",8,799928,2005
+tt1504320,"The King's Speech","Biography, Drama, History",8,714198,2010
+tt0381061,"Casino Royale","Action, Adventure, Thriller",8,704930,2006
+tt0107048,"Groundhog Day","Comedy, Drama, Fantasy",8,697951,1993
+tt3783958,"La La Land","Comedy, Drama, Music",8,693810,2016
+tt1856101,"Blade Runner 2049","Action, Drama, Mystery",8,687520,2017
+tt1798709,Her,"Drama, Romance, Sci-Fi",8,685139,2013
+tt0440963,"The Bourne Ultimatum","Action, Mystery, Thriller",8,664678,2007
+tt0114746,"12 Monkeys","Mystery, Sci-Fi, Thriller",8,654942,1995
+tt0450259,"Blood Diamond","Adventure, Drama, Thriller",8,595813,2006
+tt0454921,"The Pursuit of Happyness","Biography, Drama",8,574448,2006
+tt2948356,Zootopia,"Action, Adventure, Animation",8,561859,2016
+tt0095953,"Rain Man",Drama,8,554650,1988
+tt0101414,"Beauty and the Beast","Animation, Family, Fantasy",8,485618,1991
+tt0103639,Aladdin,"Adventure, Animation, Comedy",8,478072,1992
+tt0319061,"Big Fish","Adventure, Drama, Fantasy",8,463859,2003
+tt0093779,"The Princess Bride","Adventure, Comedy, Family",8,457862,1987
+tt0079470,"Monty Python's Life of Brian",Comedy,8,425033,1979
+tt2948372,Soul,"Adventure, Animation, Comedy",8,393230,2020
+tt0105323,"Scent of a Woman",Drama,8,338256,1992
+tt0175880,Magnolia,Drama,8,332934,1999
+tt0099348,"Dances with Wolves","Adventure, Drama, Western",8,296162,1990
+tt0061722,"The Graduate","Comedy, Drama, Romance",8,292371,1967
+tt0075686,"Annie Hall","Comedy, Romance",8,281035,1977
+tt0072890,"Dog Day Afternoon","Biography, Crime, Drama",8,277350,1975
+tt0245712,"Amores Perros","Drama, Thriller",8,256341,2000
+tt3741834,Lion,"Biography, Drama",8,254947,2016
+tt0063522,"Rosemary's Baby","Drama, Horror",8,242247,1968
+tt0083987,Gandhi,"Biography, Drama, History",8,241784,1982
+tt1220719,"Ip Man","Action, Biography, Drama",8,235830,2008
+tt0064115,"Butch Cassidy and the Sundance Kid","Biography, Crime, Drama",8,229150,1969
+tt0094625,Akira,"Action, Animation, Drama",8,210128,1988
+tt0063442,"Planet of the Apes","Adventure, Sci-Fi",8,201372,1968
+tt0352248,"Cinderella Man","Biography, Drama, Romance",8,200916,2005
+tt4857264,"The Invisible Guest","Crime, Drama, Mystery",8,196891,2016
+tt0092067,"Castle in the Sky","Adventure, Animation, Family",8,186587,1986
+tt0087544,"Nausicaä of the Valley of the Wind","Adventure, Animation, Sci-Fi",8,186496,1984
+tt0102138,JFK,"Drama, History, Thriller",8,173034,1991
+tt0072431,"Young Frankenstein",Comedy,8,171911,1974
+tt10366460,CODA,"Comedy, Drama, Music",8,170868,2021
+tt0276919,Dogville,"Crime, Drama",8,161094,2003
+tt0046250,"Roman Holiday","Comedy, Drama, Romance",8,149870,1953
+tt0310793,"Bowling for Columbine","Crime, Documentary, Drama",8,149688,2002
+tt0079944,Stalker,"Drama, Sci-Fi",8,147660,1979
+tt2631186,"Baahubali: The Beginning","Action, Drama",8,140670,2015
+tt0070511,Papillon,"Biography, Crime, Drama",8,140210,1973
+tt0060827,Persona,"Drama, Thriller",8,133285,1966
+tt0338564,"Infernal Affairs","Action, Crime, Drama",8,133146,2002
+tt0056801,8½,Drama,8,127012,1963
+tt0861739,"Elite Squad","Action, Crime, Drama",8,112401,2007
+tt0052311,"Touch of Evil","Crime, Drama, Film-Noir",8,111152,1958
+tt0401383,"The Diving Bell and the Butterfly","Biography, Drama",8,110999,2007
+tt0808417,Persepolis,"Animation, Biography, Drama",8,101332,2007
+tt0156887,"Perfect Blue","Animation, Crime, Drama",8,101313,1997
+tt0048424,"The Night of the Hunter","Crime, Drama, Film-Noir",8,100392,1955
+tt0117666,"Sling Blade",Drama,8,100096,1996
+tt0109424,"Chungking Express","Comedy, Crime, Drama",8,99449,1994
+tt0166896,"The Straight Story","Biography, Drama",8,99435,1999
+tt0154420,"The Celebration",Drama,8,95367,1998
+tt1555149,"Elite Squad 2: The Enemy Within","Action, Crime, Drama",8,87950,2010
+tt0374546,"Spring, Summer, Fall, Winter... and Spring","Drama, Romance",8,87750,2003
+tt0084503,"Pink Floyd: The Wall","Drama, Fantasy, Music",8,86595,1982
+tt0369702,"The Sea Inside","Biography, Drama",8,86032,2004
+tt0061184,"Who's Afraid of Virginia Woolf?",Drama,8,81210,1966
+tt0053779,"La Dolce Vita","Comedy, Drama",8,79575,1960
+tt0112870,"Dilwale Dulhania Le Jayenge","Drama, Romance",8,78546,1995
+tt0386032,Sicko,"Documentary, Drama",8,77123,2007
+tt0052561,"Anatomy of a Murder","Drama, Mystery",8,73210,1959
+tt0010323,"The Cabinet of Dr. Caligari","Horror, Mystery, Thriller",8,71681,1920
+tt0120731,"The Legend of 1900","Drama, Music, Romance",8,70141,1998
+tt4169250,"M.S. Dhoni: The Untold Story","Biography, Drama, Sport",8,69961,2016
+tt0053221,"Rio Bravo",Western,8,69424,1959
+tt0384116,G.O.R.A.,"Adventure, Comedy, Sci-Fi",8,68055,2004
+tt0047528,"La Strada",Drama,8,67369,1954
+tt1865505,"Song of the Sea","Adventure, Animation, Drama",8,64177,2014
+tt0056687,"What Ever Happened to Baby Jane?","Drama, Horror, Thriller",8,63449,1962
+tt3612616,Mommy,Drama,8,62910,2014
+tt0114787,Underground,"Comedy, Drama, Fantasy",8,61933,1995
+tt1185616,"Waltz with Bashir","Animation, Biography, Documentary",8,61034,2008
+tt0062229,"Le Samouraï","Crime, Drama, Thriller",8,60190,1967
+tt2377938,"Special 26","Crime, Drama, Thriller",8,59940,2013
+tt3390572,Haider,"Action, Crime, Drama",8,58576,2014
+tt4044364,Citizenfour,"Biography, Documentary",8,58523,2014
+tt0060107,"Andrei Rublev","Biography, Drama, History",8,57887,1966
+tt0118843,"Black Cat, White Cat","Comedy, Crime, Romance",8,56985,1998
+tt0050613,"Throne of Blood",Drama,8,56943,1957
+tt2758880,"Winter Sleep",Drama,8,56416,2014
+tt2576852,"The Tale of The Princess Kaguya","Animation, Drama, Family",8,56034,2013
+tt0109117,"Andaz Apna Apna","Action, Comedy, Romance",8,55857,1994
+tt1069238,Departures,Drama,8,55612,2008
+tt0067328,"The Last Picture Show","Drama, Romance",8,53388,1971
+tt0293715,"My Sassy Girl","Comedy, Drama, Romance",8,51075,2001
+tt0456144,"Lage Raho Munna Bhai","Comedy, Drama, Romance",8,51059,2006
+tt5571734,Pink,"Crime, Drama, Thriller",8,49102,2016
+tt0067093,"Fiddler on the Roof","Drama, Family, Musical",8,48643,1971
+tt0117589,"Secrets & Lies","Comedy, Drama",8,48223,1996
+tt2375559,"1: Nenokkadine","Action, Thriller",8,46810,2014
+tt0037558,"Brief Encounter","Drama, Romance",8,45283,1945
+tt0140888,"Central Station",Drama,8,43580,1998
+tt0056443,Sanjuro,"Action, Drama, Thriller",8,41856,1962
+tt0039689,"Out of the Past","Crime, Drama, Film-Noir",8,41728,1947
+tt4257858,"Going Clear: Scientology & the Prison of Belief",Documentary,8,41425,2015
+tt0386064,"Tae Guk Gi: The Brotherhood of War","Action, Drama, War",8,41384,2004
+tt0056111,"Ivan's Childhood","Drama, War",8,40732,1962
+tt0041546,"Kind Hearts and Coronets","Comedy, Crime",8,40207,1949
+tt5198068,Wolfwalkers,"Action, Adventure, Animation",8,39973,2020
+tt0083946,Fitzcarraldo,"Adventure, Drama",8,39574,1982
+tt0270053,Vizontele,"Comedy, Drama",8,39466,2001
+tt8633462,"Quo Vadis, Aida?","Drama, History, War",8,39372,2020
+tt0033045,"The Shop Around the Corner","Comedy, Drama, Romance",8,39326,1940
+tt0379557,"Touching the Void","Adventure, Documentary, Drama",8,38549,2003
+tt0923752,"The King of Kong: A Fistful of Quarters","Biography, Documentary, Sport",8,37823,2007
+tt0092593,"Au Revoir les Enfants","Drama, War",8,36732,1987
+tt0051036,"Sweet Smell of Success","Drama, Film-Noir",8,36621,1957
+tt0056732,"The Exterminating Angel","Drama, Fantasy",8,36137,1962
+tt1171701,"The Breath","Action, Drama, Thriller",8,35759,2009
+tt0408664,"Nobody Knows",Drama,8,32384,2004
+tt0053976,"The Virgin Spring",Drama,8,32154,1960
+tt3461252,"The Blue Elephant","Crime, Drama, Horror",8,30227,2014
+tt0072417,"A Woman Under the Influence","Drama, Romance",8,29991,1974
+tt0038890,"Rome, Open City","Drama, Thriller, War",8,29830,1945
+tt24485052,"Sirf Ek Bandaa Kaafi Hai","Crime, Drama, Thriller",8,29776,2023
+tt6628102,"The Wild Pear Tree",Drama,8,28606,2018
+tt1935156,"Jodorowsky's Dune",Documentary,8,28138,2013
+tt0057358,"Winter Light",Drama,8,27596,1963
+tt7236034,"I Want to Eat Your Pancreas","Animation, Drama, Family",8,26662,2018
+tt0038733,"A Matter of Life and Death","Drama, Fantasy, Romance",8,25680,1946
+tt0036244,"The Ox-Bow Incident","Drama, Western",8,25402,1942
+tt0070460,"Day for Night","Comedy, Drama, Romance",8,25178,1973
+tt0058083,"Fail Safe","Drama, Thriller",8,25103,1964
+tt0071141,"Ali: Fear Eats the Soul","Drama, Romance",8,24440,1974
+tt0091480,"Manon of the Spring",Drama,8,24347,1986
+tt11581174,Karnan,"Action, Drama",8,24062,2021
+tt28814949,"Taylor Swift: The Eras Tour","Documentary, Music, Musical",8,23018,2023
+tt2070649,Silenced,"Crime, Drama, Thriller",8,23006,2011
+tt0095468,"A Short Film About Killing","Crime, Drama",8,22894,1988
+tt0044837,Limelight,"Drama, Music, Romance",8,22599,1952
+tt0488414,Omkara,"Action, Crime, Drama",8,22535,2006
+tt0109508,Crumb,"Biography, Comedy, Documentary",8,21920,1994
+tt0379225,"The Corporation","Documentary, History",8,21911,2003
+tt10869778,Maidaan,"Biography, Drama, History",8,21238,2024
+tt0424227,"Turtles Can Fly","Drama, War",8,21199,2004
+tt3449292,"Manjhi: The Mountain Man","Biography, Drama",8,20261,2015
+tt1499666,"Castaway on the Moon","Comedy, Drama, Romance",8,20025,2009
+tt8991268,Honeyland,"Documentary, Drama",8,19668,2019
+tt3268458,"The Internet's Own Boy: The Story of Aaron Swartz","Biography, Crime, Documentary",8,18169,2014
+tt18687124,"BTS Permission to Dance on Stage - Seoul: Live Viewing","Documentary, Music",8,17520,2022
+tt3560686,"The Fool","Crime, Drama, Thriller",8,16903,2014
+tt0036112,"The Life and Death of Colonel Blimp","Drama, Romance, War",8,16882,1943
+tt0249241,"Werckmeister Harmonies","Drama, Mystery",8,16464,2000
+tt0296574,Company,"Action, Crime, Drama",8,16385,2002
+tt1128075,"Love Exposure","Action, Comedy, Drama",8,16369,2008
+tt1261047,Gulaal,"Crime, Drama, Thriller",8,16137,2009
+tt0816258,Pokiri,"Action, Crime, Thriller",8,15933,2006
+tt22488728,"Love Today","Comedy, Drama, Romance",8,15913,2022
+tt0015064,"The Last Laugh","Drama, Horror",8,15529,1924
+tt0063611,Shame,Drama,8,15328,1968
+tt2458948,"Evangelion: 3.0+1.01 Thrice Upon a Time","Action, Animation, Drama",8,15109,2021
+tt0220832,"Vaastav: The Reality","Action, Crime, Drama",8,15081,1999
+tt0084934,Yol,Drama,8,14748,1982
+tt0079579,"Moscow Does Not Believe in Tears","Comedy, Drama, Romance",8,14593,1980
+tt0012364,"The Phantom Carriage","Drama, Fantasy, Horror",8,14471,1921
+tt0054460,"The Bad Sleep Well","Crime, Drama, Thriller",8,14399,1960
+tt10919240,Malik,"Action, Biography, Crime",8,14275,2021
+tt11422728,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","Documentary, History, Music",8,14218,2021
+tt32765621,Sipahi,Drama,8,13825,2024
+tt0065889,"Investigation of a Citizen Above Suspicion","Crime, Drama",8,13785,1970
+tt0018742,"The Cameraman","Comedy, Drama, Family",8,13461,1928
+tt5082014,Charlie,"Adventure, Drama, Romance",8,13417,2015
+tt0043686,"Forbidden Games","Drama, War",8,13316,1952
+tt1282139,"Cars of the Revolution",Drama,8,12829,2008
+tt0478209,"Metal: A Headbanger's Journey","Documentary, Music",8,12576,2005
+tt0379370,Maqbool,"Crime, Drama, Thriller",8,12356,2003
+tt0278736,"Stanley Kubrick: A Life in Pictures","Biography, Documentary",8,12273,2001
+tt3686998,"The Red Pill",Documentary,8,12177,2016
+tt2926068,Manam,"Comedy, Drama, Fantasy",8,12167,2014
+tt0072860,Deewaar,"Action, Crime, Drama",8,12037,1975
+tt0165546,"The Wounds","Comedy, Crime, Drama",8,11926,1998
+tt2150209,"My Grandfather's People","Comedy, Drama, Family",8,11490,2011
+tt0263208,"Abbas in Flower","Comedy, Drama, Romance",8,11335,1982
+tt10515086,"The Blue Elephant 2","Crime, Drama, Horror",8,11310,2019
+tt0063633,"The Cremator","Comedy, Crime, Drama",8,11273,1969
+tt11322920,"Ayyappanum Koshiyum","Action, Drama, Thriller",8,11104,2020
+tt2028530,"Paradise Lost 3: Purgatory","Crime, Documentary",8,11060,2011
+tt0056444,"An Autumn Afternoon",Drama,8,11017,1962
+tt0015881,Greed,"Drama, Thriller, Western",8,11010,1924
+tt0366840,Okkadu,"Action, Drama, Romance",8,10974,2003
+tt27542289,"Por Thozhil","Action, Crime, Thriller",8,10832,2023
+tt7476236,"Minding the Gap","Documentary, Sport",8,10648,2018
+tt24226474,"Jigarthanda Double X","Action, Comedy, Drama",8,10311,2023
+tt0436971,"Why We Fight","Documentary, History, War",8,10291,2005
+tt0499549,Avatar,"Action, Adventure, Fantasy",7.9,1406116,2009
+tt0120338,Titanic,"Drama, Romance",7.9,1309565,1997
+tt0371746,"Iron Man","Action, Adventure, Sci-Fi",7.9,1146965,2008
+tt3501632,"Thor: Ragnarok","Action, Adventure, Comedy",7.9,833845,2017
+tt8946378,"Knives Out","Comedy, Crime, Drama",7.9,793011,2019
+tt2543164,Arrival,"Drama, Mystery, Sci-Fi",7.9,791501,2016
+tt1877832,"X-Men: Days of Future Past","Action, Adventure, Sci-Fi",7.9,759119,2014
+tt1631867,"Edge of Tomorrow","Action, Adventure, Sci-Fi",7.9,754545,2014
+tt0126029,Shrek,"Adventure, Animation, Comedy",7.9,751751,2001
+tt1136608,"District 9","Action, Sci-Fi, Thriller",7.9,725792,2009
+tt0304141,"Harry Potter and the Prisoner of Azkaban","Adventure, Family, Fantasy",7.9,707585,2004
+tt0454876,"Life of Pi","Adventure, Drama, Fantasy",7.9,675125,2012
+tt0120363,"Toy Story 2","Adventure, Animation, Comedy",7.9,631549,1999
+tt0796366,"Star Trek","Action, Adventure, Sci-Fi",7.9,624683,2009
+tt1727824,"Bohemian Rhapsody","Biography, Drama, Music",7.9,606859,2018
+tt0365748,"Shaun of the Dead","Comedy, Horror",7.9,606464,2004
+tt1659337,"The Perks of Being a Wallflower",Drama,7.9,558185,2012
+tt0206634,"Children of Men","Action, Drama, Sci-Fi",7.9,537810,2006
+tt0099487,"Edward Scissorhands","Drama, Fantasy, Romance",7.9,535377,1990
+tt0790636,"Dallas Buyers Club","Biography, Drama",7.9,526248,2013
+tt0327056,"Mystic River","Crime, Drama, Mystery",7.9,493936,2003
+tt0780536,"In Bruges","Comedy, Crime, Drama",7.9,469528,2008
+tt2584384,"Jojo Rabbit","Comedy, Drama, War",7.9,453139,2019
+tt12361974,"Zack Snyder's Justice League","Action, Adventure, Fantasy",7.9,446906,2021
+tt0083866,"E.T. the Extra-Terrestrial","Adventure, Family, Sci-Fi",7.9,445092,1982
+tt6791350,"Guardians of the Galaxy Vol. 3","Action, Adventure, Comedy",7.9,402993,2023
+tt0166924,"Mulholland Drive","Drama, Mystery, Thriller",7.9,391237,2001
+tt0107688,"The Nightmare Before Christmas","Animation, Family, Fantasy",7.9,383862,1993
+tt1065073,Boyhood,Drama,7.9,371095,2014
+tt7653254,"Marriage Story","Drama, Romance",7.9,353333,2019
+tt1125849,"The Wrestler","Drama, Sport",7.9,322680,2008
+tt0181875,"Almost Famous","Adventure, Comedy, Drama",7.9,298332,2000
+tt0118749,"Boogie Nights",Drama,7.9,286669,1997
+tt0190332,"Crouching Tiger, Hidden Dragon","Action, Adventure, Drama",7.9,284520,2000
+tt0432283,"Fantastic Mr. Fox","Adventure, Animation, Comedy",7.9,277466,2009
+tt1655442,"The Artist","Comedy, Drama, Romance",7.9,250254,2011
+tt0108399,"True Romance","Crime, Drama, Romance",7.9,246416,1993
+tt0058461,"A Fistful of Dollars","Action, Drama, Western",7.9,238060,1964
+tt0106519,"Carlito's Way","Crime, Drama, Thriller",7.9,236020,1993
+tt0080455,"The Blues Brothers","Action, Adventure, Comedy",7.9,217996,1980
+tt0299977,Hero,"Action, Adventure, Drama",7.9,189102,2002
+tt2543472,Wonder,"Drama, Family",7.9,183672,2017
+tt2209418,"Before Midnight","Drama, Romance",7.9,175478,2013
+tt0085334,"A Christmas Story","Comedy, Family",7.9,169782,1983
+tt0033870,"The Maltese Falcon","Crime, Film-Noir, Mystery",7.9,168431,1941
+tt14849194,"The Holdovers","Comedy, Drama",7.9,168393,2023
+tt0113568,"Ghost in the Shell","Action, Animation, Crime",7.9,160774,1995
+tt0040746,Rope,"Crime, Drama, Mystery",7.9,157282,1948
+tt0088258,"This Is Spinal Tap","Comedy, Music",7.9,149204,1984
+tt0054331,Spartacus,"Adventure, Biography, Drama",7.9,145392,1960
+tt0044079,"Strangers on a Train","Crime, Drama, Film-Noir",7.9,143255,1951
+tt2265171,"The Raid 2","Action, Crime, Thriller",7.9,133175,2014
+tt0074119,"All the President's Men","Drama, History, Thriller",7.9,128425,1976
+tt0287467,"Talk to Her","Drama, Mystery, Romance",7.9,118626,2002
+tt0168629,"Dancer in the Dark","Crime, Drama, Musical",7.9,118482,2000
+tt1188996,"My Name Is Khan","Adventure, Drama, Romance",7.9,117952,2010
+tt0044081,"A Streetcar Named Desire",Drama,7.9,115698,1951
+tt0097216,"Do the Right Thing","Comedy, Drama",7.9,115158,1989
+tt0044706,"High Noon","Drama, Thriller, Western",7.9,111812,1952
+tt0066206,Patton,"Biography, Drama, War",7.9,109449,1970
+tt0038787,Notorious,"Drama, Film-Noir, Romance",7.9,109070,1946
+tt1602620,Amour,Drama,7.9,106930,2012
+tt3544112,"Sing Street","Comedy, Drama, Music",7.9,102762,2016
+tt0049406,"The Killing","Crime, Drama, Film-Noir",7.9,99959,1956
+tt0069293,Solaris,"Drama, Mystery, Sci-Fi",7.9,99920,1972
+tt2370248,"Short Term 12",Drama,7.9,92710,2013
+tt0024216,"King Kong","Adventure, Horror",7.9,92406,1933
+tt0038355,"The Big Sleep","Crime, Film-Noir, Mystery",7.9,91855,1946
+tt0065214,"The Wild Bunch","Action, Adventure, Drama",7.9,91623,1969
+tt8075192,Shoplifters,"Crime, Drama, Thriller",7.9,88940,2018
+tt0054997,"The Hustler","Drama, Sport",7.9,87771,1961
+tt0061811,"In the Heat of the Night","Drama, Mystery, Thriller",7.9,84917,1967
+tt0059113,"Doctor Zhivago","Drama, Romance, War",7.9,83196,1965
+tt0067185,"Harold and Maude","Comedy, Drama, Romance",7.9,82892,1971
+tt0056218,"The Manchurian Candidate","Drama, Thriller",7.9,80992,1962
+tt0049833,"The Ten Commandments","Adventure, Drama, Family",7.9,79056,1956
+tt0093191,"Wings of Desire","Drama, Fantasy, Romance",7.9,78966,1987
+tt0078841,"Being There","Comedy, Drama",7.9,78946,1979
+tt0347304,"Kal Ho Naa Ho","Comedy, Drama, Musical",7.9,76734,2003
+tt0036613,"Arsenic and Old Lace","Comedy, Crime, Thriller",7.9,75856,1944
+tt1587707,"Exit Through the Gift Shop","Comedy, Crime, Documentary",7.9,69376,2010
+tt13664684,"Karthikeya 2","Action, Adventure, Fantasy",7.9,64496,2022
+tt1032846,"4 Months, 3 Weeks and 2 Days",Drama,7.9,63887,2007
+tt0015648,"Battleship Potemkin","Drama, History, Thriller",7.9,62308,1925
+tt27503384,"Perfect Days",Drama,7.9,62178,2023
+tt3848892,Baby,"Action, Crime, Thriller",7.9,61232,2015
+tt1093370,"Jab We Met","Comedy, Drama, Romance",7.9,60313,2007
+tt0046359,"Stalag 17","Comedy, Drama, War",7.9,59469,1953
+tt4387040,Airlift,"Action, Drama, History",7.9,59238,2016
+tt0423866,3-Iron,"Crime, Drama, Romance",7.9,59012,2004
+tt0042546,Harvey,"Comedy, Drama, Fantasy",7.9,58842,1950
+tt0347048,Head-On,"Drama, Romance",7.9,58493,2004
+tt1360860,"About Elly","Drama, Mystery",7.9,58089,2009
+tt0247586,"Nine Queens","Crime, Drama, Thriller",7.9,58038,2000
+tt5116302,Togo,"Adventure, Biography, Drama",7.9,57334,2019
+tt6333060,Icarus,"Documentary, Sport",7.9,55723,2017
+tt0039628,"Miracle on 34th Street","Comedy, Drama, Family",7.9,55457,1947
+tt0029843,"The Adventures of Robin Hood","Action, Adventure, Romance",7.9,55227,1938
+tt0051459,"Cat on a Hot Tin Roof",Drama,7.9,54349,1958
+tt0072443,Mirror,"Biography, Drama",7.9,53494,1975
+tt0037008,Laura,"Drama, Film-Noir, Mystery",7.9,52529,1944
+tt0069281,Sleuth,"Mystery, Thriller",7.9,50753,1972
+tt0283509,"No Man's Land","Comedy, Drama, War",7.9,49251,2001
+tt0376968,"The Return",Drama,7.9,48028,2003
+tt2395469,"Gully Boy","Drama, Music, Romance",7.9,44434,2019
+tt2199711,Vishwaroopam,"Action, Thriller",7.9,41144,2013
+tt0037884,"The Lost Weekend","Drama, Film-Noir",7.9,40934,1945
+tt0080979,"Kagemusha: The Shadow Warrior","Drama, History, War",7.9,38865,1980
+tt7725596,"Badhaai Ho","Comedy, Drama",7.9,38594,2018
+tt7485048,"Super 30","Biography, Drama",7.9,38045,2019
+tt0069467,"Cries & Whispers",Drama,7.9,37671,1972
+tt0110729,"Once Were Warriors","Crime, Drama",7.9,37511,1994
+tt0042593,"In a Lonely Place","Drama, Film-Noir, Mystery",7.9,36400,1950
+tt0106469,"Blood In, Blood Out","Biography, Crime, Drama",7.9,35233,1993
+tt0063227,"The Lion in Winter","Biography, Drama, History",7.9,34741,1968
+tt0065571,"The Conformist",Drama,7.9,34479,1970
+tt4330758,"Black Hawk Down",Documentary,7.9,34109,1997
+tt6878038,"A Taxi Driver","Action, Drama, History",7.9,33096,2017
+tt0025878,"The Thin Man","Comedy, Crime, Mystery",7.9,33092,1934
+tt1327035,Dev.D,"Comedy, Drama, Romance",7.9,32651,2009
+tt0091670,"The Sacrifice",Drama,7.9,31951,1986
+tt0031885,"The Rules of the Game","Comedy, Drama",7.9,31826,1939
+tt27470893,"Chandu Champion","Action, Biography, Drama",7.9,31798,2024
+tt26936666,Vettaiyan,"Action, Crime, Drama",7.9,31291,2024
+tt0086022,Nostalghia,Drama,7.9,30837,1983
+tt0045555,"The Big Heat","Crime, Film-Noir, Thriller",7.9,30147,1953
+tt0061809,"In Cold Blood","Biography, Crime, Drama",7.9,29921,1967
+tt0057091,"The Leopard","Drama, History",7.9,29810,1963
+tt7218518,"Pad Man","Comedy, Drama",7.9,29722,2018
+tt0051378,"Elevator to the Gallows","Crime, Drama, Thriller",7.9,29408,1958
+tt0065531,"The Red Circle","Crime, Drama, Thriller",7.9,29313,1970
+tt0037913,"Mildred Pierce","Crime, Drama, Film-Noir",7.9,29266,1945
+tt0034240,"Sullivan's Travels","Adventure, Comedy, Drama",7.9,29131,1941
+tt0038348,"Beauty and the Beast","Drama, Fantasy, Romance",7.9,28532,1946
+tt7294534,"Arjun Reddy","Action, Drama, Romance",7.9,28227,2017
+tt1702014,"The Way He Looks","Drama, Romance",7.9,28133,2014
+tt0055499,"Through a Glass Darkly",Drama,7.9,27822,1961
+tt0028010,"My Man Godfrey","Comedy, Drama, Romance",7.9,26985,1936
+tt0096257,"The Thin Blue Line","Crime, Documentary",7.9,26513,1988
+tt0860906,"Evangelion: 2.0 You Can (Not) Advance","Action, Animation, Drama",7.9,25760,2009
+tt0054130,"La Notte",Drama,7.9,24647,1961
+tt2882328,Ugly,"Crime, Drama, Mystery",7.9,23931,2013
+tt5804038,"I Am Not Your Negro","Documentary, History",7.9,23830,2016
+tt0029870,"Angels with Dirty Faces","Crime, Drama, Film-Noir",7.9,23587,1938
+tt0064541,Kes,"Drama, Family",7.9,23425,1969
+tt0055256,"One, Two, Three",Comedy,7.9,23367,1961
+tt0092048,Tampopo,Comedy,7.9,23353,1985
+tt30970235,"Article 370","Action, Drama, Thriller",7.9,23075,2024
+tt0058430,Onibaba,"Drama, Horror, Thriller",7.9,22845,1964
+tt1277737,"The Stoning of Soraya M.",Drama,7.9,22092,2008
+tt0051411,"The Big Country","Drama, Romance, Western",7.9,21692,1958
+tt0060474,"Don't Look Now... We're Being Shot At!","Adventure, Comedy, War",7.9,20696,1966
+tt0058279,Kwaidan,"Drama, Fantasy, Horror",7.9,20686,1964
+tt8430054,Flee,"Animation, Biography, Documentary",7.9,19998,2021
+tt0035140,"Now, Voyager","Drama, Romance",7.9,19414,1942
+tt0118147,"When We Were Kings","Documentary, Sport",7.9,19361,1996
+tt1087578,"Still Walking",Drama,7.9,19227,2008
+tt0118751,Border,"Action, Drama, History",7.9,17994,1997
+tt0051994,"A Night to Remember","Drama, History",7.9,17642,1958
+tt1157605,Anvil,"Biography, Documentary, Drama",7.9,16983,2008
+tt0023622,"Trouble in Paradise","Comedy, Crime, Romance",7.9,16486,1932
+tt0200654,"On Board","Crime, Drama",7.9,16440,1998
+tt0031867,"The Roaring Twenties","Crime, Drama, Film-Noir",7.9,16077,1939
+tt0988108,"The Class",Drama,7.9,16030,2007
+tt11772746,Thiruchitrambalam,"Comedy, Drama, Musical",7.9,16006,2022
+tt0042788,"Night and the City","Crime, Film-Noir, Sport",7.9,15620,1950
+tt19653180,"Leila's Brothers",Drama,7.9,15215,2022
+tt11790780,"The Alpinist","Biography, Documentary",7.9,15104,2021
+tt0156794,"Eternity and a Day",Drama,7.9,14869,1998
+tt0393597,Earth,Documentary,7.9,14782,2007
+tt1183919,Marley,"Biography, Documentary, Music",7.9,14649,2012
+tt0055913,"Divorce Italian Style","Comedy, Drama, Romance",7.9,14556,1961
+tt0089603,"Mishima: A Life in Four Chapters","Biography, Drama",7.9,14425,1985
+tt0222012,"Hey Ram","Crime, Drama, History",7.9,14247,2000
+tt0091341,Kin-dza-dza!,"Comedy, Drama, Sci-Fi",7.9,14076,1986
+tt0040536,"Letter from an Unknown Woman","Drama, Romance",7.9,13987,1948
+tt0023563,"The Testament of Dr. Mabuse","Crime, Mystery, Thriller",7.9,13795,1933
+tt0069687,"Alice in the Cities",Drama,7.9,13777,1974
+tt4309356,Ivy,"Drama, Fantasy, Thriller",7.9,13755,2015
+tt0041719,Orpheus,"Drama, Fantasy, Romance",7.9,13671,1950
+tt1077248,"Johnny Gaddaar","Crime, Drama, Thriller",7.9,13414,2007
+tt0033836,"The Little Foxes","Drama, Romance",7.9,13368,1941
+tt30796448,"The Greatest Night in Pop","Documentary, Music",7.9,13176,2024
+tt8108200,Sonchiriya,"Action, Crime, Drama",7.9,13169,2019
+tt5221894,"The Other Me","Crime, Drama, Mystery",7.9,13031,2016
+tt3614516,"Ankhon Dekhi","Comedy, Drama",7.9,13009,2013
+tt0051383,"Auntie Mame","Comedy, Drama, Romance",7.9,12965,1958
+tt0079672,"Opening Night",Drama,7.9,12740,1977
+tt0301727,"Winged Migration",Documentary,7.9,12434,2001
+tt0060277,"The Sword of Doom","Action, Drama",7.9,12354,1966
+tt0052216,"Big Deal on Madonna Street","Comedy, Crime",7.9,11794,1958
+tt0117040,Microcosmos,Documentary,7.9,11777,1996
+tt0031385,"Goodbye, Mr. Chips","Drama, Romance",7.9,11734,1939
+tt11833648,"The Book of Sun",Comedy,7.9,11665,2020
+tt0074360,"Cría Cuervos",Drama,7.9,11629,1976
+tt0113703,"Love Letter","Drama, Romance",7.9,11442,1995
+tt0046022,"The Earrings of Madame De...","Drama, Romance",7.9,11334,1953
+tt0997246,"The Song of Sparrows","Drama, Family",7.9,11279,2008
+tt0028691,"Captains Courageous","Adventure, Drama, Family",7.9,11158,1937
+tt2130321,"West of Memphis","Crime, Documentary",7.9,11112,2012
+tt0814075,"Deliver Us from Evil","Crime, Documentary",7.9,10941,2006
+tt0061065,"The Face of Another","Drama, Sci-Fi, Thriller",7.9,10809,1966
+tt0436231,"The Devil and Daniel Johnston","Biography, Documentary, Music",7.9,10619,2005
+tt0478813,"The Trap","Crime, Drama, Thriller",7.9,10445,2007
+tt0096028,"Salaam Bombay!","Crime, Drama",7.9,10267,1988
+tt0061589,"Bob Dylan: Dont Look Back","Documentary, Music",7.9,10154,1967
+tt2488496,"Star Wars: Episode VII - The Force Awakens","Action, Adventure, Sci-Fi",7.8,985919,2015
+tt0903624,"The Hobbit: An Unexpected Journey","Adventure, Fantasy",7.8,887801,2012
+tt3498820,"Captain America: Civil War","Action, Sci-Fi",7.8,868314,2016
+tt1877830,"The Batman","Action, Crime, Drama",7.8,825798,2022
+tt1285016,"The Social Network","Biography, Drama",7.8,772932,2010
+tt5013056,Dunkirk,"Action, Drama, History",7.8,754936,2017
+tt1074638,Skyfall,"Action, Adventure, Thriller",7.8,740039,2012
+tt5052448,"Get Out","Horror, Mystery, Thriller",7.8,730315,2017
+tt0780504,Drive,"Action, Drama",7.8,719255,2011
+tt1170358,"The Hobbit: The Desolation of Smaug","Adventure, Fantasy",7.8,718234,2013
+tt0421715,"The Curious Case of Benjamin Button","Drama, Fantasy, Romance",7.8,707187,2008
+tt3748528,"Rogue One: A Star Wars Story","Action, Adventure, Sci-Fi",7.8,699915,2016
+tt3460252,"The Hateful Eight","Crime, Drama, Mystery",7.8,673485,2015
+tt0162222,"Cast Away","Adventure, Drama, Romance",7.8,650611,2000
+tt0332280,"The Notebook","Drama, Romance",7.8,636256,2004
+tt2872718,Nightcrawler,"Crime, Drama, Thriller",7.8,619181,2014
+tt0258463,"The Bourne Identity","Action, Mystery, Thriller",7.8,585317,2002
+tt0096874,"Back to the Future Part II","Adventure, Comedy, Sci-Fi",7.8,584808,1989
+tt6710474,"Everything Everywhere All at Once","Action, Adventure, Comedy",7.8,555168,2022
+tt0425112,"Hot Fuzz","Action, Comedy, Mystery",7.8,543880,2007
+tt0449059,"Little Miss Sunshine","Comedy, Drama",7.8,526789,2006
+tt2245084,"Big Hero 6","Action, Adventure, Animation",7.8,514470,2014
+tt1568346,"The Girl with the Dragon Tattoo","Crime, Drama, Mystery",7.8,503927,2011
+tt1535109,"Captain Phillips","Action, Biography, Crime",7.8,499704,2013
+tt1596363,"The Big Short","Biography, Comedy, Drama",7.8,496450,2015
+tt0139654,"Training Day","Crime, Drama, Thriller",7.8,483070,2001
+tt0325710,"The Last Samurai","Action, Drama",7.8,479177,2003
+tt0093773,Predator,"Action, Adventure, Horror",7.8,466240,1987
+tt0765429,"American Gangster","Biography, Crime, Drama",7.8,461327,2007
+tt0087332,Ghostbusters,"Action, Comedy, Fantasy",7.8,461241,1984
+tt0088847,"The Breakfast Club","Comedy, Drama",7.8,446642,1985
+tt1302006,"The Irishman","Biography, Crime, Drama",7.8,440774,2019
+tt8367814,"The Gentlemen","Action, Crime",7.8,417714,2019
+tt2194499,"About Time","Comedy, Drama, Fantasy",7.8,398690,2013
+tt0091042,"Ferris Bueller's Day Off",Comedy,7.8,394676,1986
+tt0964517,"The Fighter","Action, Biography, Drama",7.8,393490,2010
+tt1182345,Moon,"Drama, Mystery, Sci-Fi",7.8,380931,2009
+tt1646971,"How to Train Your Dragon 2","Action, Adventure, Animation",7.8,371337,2014
+tt1748122,"Moonrise Kingdom","Adventure, Comedy, Drama",7.8,369942,2012
+tt6263850,"Deadpool & Wolverine","Action, Adventure, Comedy",7.8,344413,2024
+tt0414387,"Pride & Prejudice","Drama, Romance",7.8,339552,2005
+tt0472043,Apocalypto,"Action, Adventure, Drama",7.8,336802,2006
+tt0094226,"The Untouchables","Crime, Drama, Thriller",7.8,336479,1987
+tt5726616,"Call Me by Your Name","Drama, Romance",7.8,326969,2017
+tt0106977,"The Fugitive","Action, Crime, Drama",7.8,325554,1993
