@@ -19,7 +19,7 @@ It uses Python generators to spare memory usage.
    ```bash
    python -m venv venv
 
-3. **Activate the virtual environment:
+3. **Activate the virtual environment**:
 
 - On Windows:
 
@@ -31,7 +31,7 @@ It uses Python generators to spare memory usage.
    ```bash
    source venv/bin/activate
 
-4. **Run the script:
+4. **Run the script**:
 
    ```bash
    python your_script_name.py
